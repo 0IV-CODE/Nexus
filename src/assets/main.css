@@ -1,0 +1,53 @@
+@import './base.css';
+
+/* #app {
+  padding: 1rem;
+} */
+
+/* Fonts */
+/* Note: loading font's from url help load time */
+@font-face {
+  font-family: 'maveric';
+  src: url('https://ik.imagekit.io/invimgs0101/mcinvt/fonts/Maveric%20Demo_xI5B1VGg6.otf?updatedAt=1718404468462')
+    format('opentype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'tachyo';
+  src: url('https://ik.imagekit.io/invimgs0101/mcinvt/fonts/Tachyo-1.0.0_L8xJMM9WK.otf?updatedAt=1718405005827')
+    format('opentype');
+  font-display: swap;
+}
+/* ID Fonts */
+#mavFont {
+  font-family: 'maveric', 'Times New Roman', sans-serif !important;
+}
+#tachFont {
+  font-family: 'tachyo', 'Times New Roman', sans-serif !important;
+}
+
+/* Borders */
+.border-b-l {
+  border-left: 3px solid rgb(0, 0, 0) !important;
+}
+.border-w-l {
+  border-left: 3px solid rgb(255, 255, 255) !important;
+}
+
+.border-b-trbl {
+  border-top: 2px solid rgb(0, 0, 0) !important;
+  border-right: 2px solid rgb(0, 0, 0) !important;
+  border-bottom: 2px solid rgb(0, 0, 0) !important;
+  border-left: 2px solid rgb(0, 0, 0) !important;
+}
+.border-b-trbl {
+  border-top: 2px solid rgb(0, 0, 0) !important;
+  border-right: 2px solid rgb(0, 0, 0) !important;
+  border-bottom: 2px solid rgb(0, 0, 0) !important;
+  border-left: 2px solid rgb(0, 0, 0) !important;
+}
+.border-b-rbl {
+  border-right: 2px solid rgb(0, 0, 0) !important;
+  border-bottom: 2px solid rgb(0, 0, 0) !important;
+  border-left: 2px solid rgb(0, 0, 0) !important;
+}
