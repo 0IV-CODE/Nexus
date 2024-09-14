@@ -2,7 +2,7 @@
 
 # 🚀 Project Overview
 
-Every gamer knows the importance of a well-organized inventory. From managing equipment and resources to setting goals and tracking progress, MCINVT is designed to help you stay on top of your game, out of the digital realm where this is very much needed.
+Every gamer knows the importance of a well-organized inventory. From managing equipment and resources to setting goals and tracking progress, NEXUS is designed to help you stay on top of your game, out of the digital realm where this is very much needed.
 
 # 🛠 Features
 
